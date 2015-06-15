@@ -1,6 +1,9 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+To play the game:
 
-for self-checking their submission.
+1. Load index.html.
+2. Press any key to begin the game.
+3. Use the arrow keys to get to the river, but don't let a ladybug touch you!
+4. Collect gems for bonus points.
